@@ -33,13 +33,23 @@
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
+<v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170120110024.9" a="E"><vh>20170301w2</vh>
-<v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20170303010459.1"><vh>2017/02/22 w1上課內容</vh>
+<v t="leo.20170303010459.2" a="E"><vh>筆記</vh>
+<v t="leo.20170303010459.3"><vh>內容</vh></v>
 </v>
-<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
+</v>
+<v t="leo.20170303005948.1" a="E"><vh>2017/03/01 w2上課內容</vh>
+<v t="leo.20170303005948.2"><vh>筆記</vh>
+<v t="leo.20170303005948.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170303010908.1" a="E"><vh>筆記</vh>
+<v t="leo.20170303010908.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="yen.20170120110024.11" a="E"><vh>各式內容引用範例</vh>
 <v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
 <v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -93,6 +103,72 @@
 <v t="leo.20170301110741.1"><vh>@edit ../README.md</vh></v>
 </vnodes>
 <tnodes>
+<t tx="leo.20170303005948.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170303005948.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170303005948.3"># 2017/03/01 w2
+*筆記
+1.tiny2017 - with_pip\data\stunnel\config的stunnel.conf檔案
+
+2.stunnel.conf移到SciTE
+
+3.程式碼前面是分號 就是註解不會執行那段程式碼
+
+4.利用cmd查IP(ipconfig /all)
+
+5.將https的IP改為電腦的IP(第138行)
+
+6.443是https內建的port號, 不用改
+
+7.因為有用proxy所以要指定192.168.1.49的IP不要經過proxy
+8.Chrome proxy設定&gt;LAN設定&gt;進階
+
+9.2017springcd/data/onelink_vrep_remoteapi_pos_vel.7z
+</t>
+<t tx="leo.20170303010459.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170303010459.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170303010459.3"># 2017/02/22 w1
+*筆記
+
+</t>
+<t tx="leo.20170303010908.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170303010908.2">8.Chrome proxy設定&gt;LAN設定&gt;進階
+
+9.2017springcd/data/onelink_vrep_remoteapi_pos_vel.7z
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -244,17 +320,6 @@ make.start()</t>
 <t tx="yen.20170120110024.1">@language xml
 @tabwidth -4
 @others
-
-</t>
-<t tx="yen.20170120110024.10"># 2017/03/01 w2
-
-* 筆記
-* 
-* 
-* 
-* 
-*  
-(Escape)
 
 </t>
 <t tx="yen.20170120110024.11">&lt;section&gt;
@@ -424,23 +489,13 @@ make.start()
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-機設二乙  40423246
-劉永駿
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+###機設二乙  40423246 第6組 劉永駿
+網誌 [KMOLab](https://40423246.github.io/2017springcd_hw/blog/)
 &lt;/small&gt;
 
 [協同產品設計實習課程網誌](blog/index.html)
 
 
-</t>
-<t tx="yen.20170120110024.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
 </t>
 <t tx="yen.20170120212350.1"></t>
 <t tx="yen.20170120212354.1">@language python
