@@ -39,12 +39,12 @@
 <v t="leo.20170304123531.1"><vh>快捷鍵</vh>
 <v t="leo.20170304123531.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20170303010459.1" a="E"><vh>2017/02/22 w1上課內容</vh>
+<v t="leo.20170303010459.1"><vh>2017/02/22 w1上課內容</vh>
 <v t="leo.20170303010459.2" a="E"><vh>筆記</vh>
 <v t="leo.20170303010459.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170303005948.1" a="E"><vh>2017/03/01 w2上課內容</vh>
+<v t="leo.20170303005948.1"><vh>2017/03/01 w2上課內容</vh>
 <v t="leo.20170303005948.2" a="E"><vh>筆記</vh>
 <v t="leo.20170303005948.3"><vh>內容</vh></v>
 </v>
@@ -52,12 +52,45 @@
 <v t="leo.20170303010908.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170321162431.1" a="E"><vh>2017/03/08 w3上課內容</vh>
+<v t="leo.20170321162431.1"><vh>2017/03/08 w3上課內容</vh>
 <v t="leo.20170321162431.2" a="E"><vh>筆記</vh>
 <v t="leo.20170321162431.3"><vh>內容</vh></v>
 </v>
 <v t="leo.20170321171654.1" a="E"><vh>筆記</vh>
 <v t="leo.20170321171654.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170329203100.1" a="E"><vh>2017/03/15 w4上課內容</vh>
+<v t="leo.20170329203100.2" a="E"><vh>筆記</vh>
+<v t="leo.20170329203100.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170329203100.4" a="E"><vh>筆記</vh>
+<v t="leo.20170329203100.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170329203812.1" a="E"><vh>筆記</vh>
+<v t="leo.20170329203812.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170329203919.1" a="E"><vh>筆記</vh>
+<v t="leo.20170329203919.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170329203922.1" a="E"><vh>筆記</vh>
+<v t="leo.20170329203922.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170329204039.1" a="E"><vh>筆記</vh>
+<v t="leo.20170329204039.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170329203101.1" a="E"><vh>2017/03/22 w5上課內容</vh>
+<v t="leo.20170329203101.2" a="E"><vh>筆記</vh>
+<v t="leo.20170329203101.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170329203127.1" a="E"><vh>2017/03/29 w6上課內容</vh>
+<v t="leo.20170329203127.2" a="E"><vh>筆記</vh>
+<v t="leo.20170329203127.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170329203127.4" a="E"><vh>筆記</vh>
+<v t="leo.20170329203127.5"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -229,6 +262,148 @@
 						
 </t>
 <t tx="leo.20170321171654.2">5.將上述四連桿機構做出運動軌跡，是否正確，並在網頁上執行運動軌跡</t>
+<t tx="leo.20170329203100.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170329203100.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170329203100.3"># 2017/03/15第四周上課內容
+
+*筆記
+
+1.建立協同主機     2017Springcd _bg5
+
+https://mde2a2.kmol.info/cdbg5/home
+
+</t>
+<t tx="leo.20170329203100.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170329203100.5">
+#2.HYPERWORKS 翻譯 </t>
+<t tx="leo.20170329203101.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170329203101.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170329203101.3"># 2017/03/22第五周上課內容
+
+*筆記
+
+1.Fossil SCM與Stunnel啟動整合
+
+2.solvespace匯出 onbar並在V-rep加入馬達</t>
+<t tx="leo.20170329203127.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170329203127.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170329203127.3"># 2017/03/08第三周上課內容
+
+*筆記
+
+1.用ONSHAPE及SOLVESPACE繪製出ONBAR 及 FOURAR
+
+2.將Forbar匯入 V-rep加入馬達</t>
+<t tx="leo.20170329203127.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170329203127.5">5.將上述四連桿機構做出運動軌跡，是否正確，並在網頁上執行運動軌跡</t>
+<t tx="leo.20170329203812.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170329203812.2">
+#3.單聯桿 solvespace組合</t>
+<t tx="leo.20170329203919.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170329203919.2">
+#1. Line 1</t>
+<t tx="leo.20170329203922.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170329203922.2">
+#2. Line 2</t>
+<t tx="leo.20170329204039.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170329204039.2">
+#3. Line 3</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
