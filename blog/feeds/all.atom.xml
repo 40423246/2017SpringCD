@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-15T11:00:00+08:00</updated><entry><title>2017/03/15 W4</title><link href="./2017Spring-cd-W15.html" rel="alternate"></link><published>2017-03-15T11:00:00+08:00</published><updated>2017-03-15T11:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-15:./2017Spring-cd-W15.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第四週上課內容&lt;/h2&gt;</summary><category term="111"></category></entry><entry><title>2017/03/08 W3</title><link href="./2017Spring-cd-W3.html" rel="alternate"></link><published>2017-03-08T11:00:00+08:00</published><updated>2017-03-08T11:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-08:./2017Spring-cd-W3.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第三週上課內容&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-29T11:00:00+08:00</updated><entry><title>2017/03/29 W6</title><link href="./2017Spring-cd-W6.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-29:./2017Spring-cd-W6.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第六週上課內容&lt;/h2&gt;
+</summary><category term="111"></category></entry><entry><title>2017/03/22 W5</title><link href="./2017Spring-cd-W5.html" rel="alternate"></link><published>2017-03-22T11:00:00+08:00</published><updated>2017-03-22T11:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-22:./2017Spring-cd-W5.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第五週上課內容&lt;/h2&gt;
+</summary><category term="111"></category></entry><entry><title>2017/03/15 W4</title><link href="./2017Spring-cd-W14.html" rel="alternate"></link><published>2017-03-15T11:00:00+08:00</published><updated>2017-03-15T11:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-15:./2017Spring-cd-W14.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第四週上課內容&lt;/h2&gt;
+
+
+&lt;h2&gt;一、Fossil SCM倉儲&lt;/h2&gt;
+&lt;p&gt;&lt;p&gt;每組要在https://mde2a2.kmol.info 主機上建倉儲:&lt;a href="https://mde2a2.kmol.info/cdbg5"&gt;https://mde2a2.kmol.info/cdbg5&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;h2&gt;二、單連桿機構&lt;/h2&gt;
+&lt;p&gt;solvespace繪製&lt;button onClick="lity('https://vimeo.com/210904309')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 單聯桿機構 繪製&lt;/button&gt;
+&lt;button onClick="lity('https://vimeo.com/210904346')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 單聯桿機構組合&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;solvespace組立轉入v-rep&lt;button onClick="lity('https://vimeo.com/210906520')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 影片&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;Onshape繪製&lt;button onClick="lity('https://vimeo.com/210905493')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 單連桿機構&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;onshape組立轉入v-rep&lt;button onClick="lity('https://vimeo.com/210907004')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;影片&lt;/button&gt;&lt;/p&gt;</summary><category term="111"></category></entry><entry><title>2017/03/08 W3</title><link href="./2017Spring-cd-W3.html" rel="alternate"></link><published>2017-03-08T11:00:00+08:00</published><updated>2017-03-08T11:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-08:./2017Spring-cd-W3.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第三週上課內容&lt;/h2&gt;
+
+
 &lt;h3&gt;HyperWorks 14.0 Student Edition&lt;/h3&gt;
 
 &lt;p&gt;Student Edition: &lt;a href="http://www.altairuniversity.com/get-the-free-hyperworks-14-0-student-edition/"&gt;下載位址Download Now!&lt;/a&gt;&lt;/p&gt;
@@ -73,7 +87,17 @@ Exit
 
 &lt;pre&gt;https://&lt;u&gt;電腦IPv4的IP&lt;/u&gt;&lt;/pre&gt;
 
-&lt;p&gt;二.四連桿機構&lt;/p&gt;
+&lt;p&gt;二.四連桿機構
+&lt;p&gt;solvespace&lt;/p&gt;
+&lt;button onClick="lity('https://vimeo.com/211101501')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;link30製圖影片&lt;/button&gt;
+&lt;button onClick="lity('https://vimeo.com/211101501')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 軌跡圖&lt;/button&gt;
+&lt;button onClick="lity('https://vimeo.com/211101501')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 四連桿組合&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;onshape&lt;/p&gt;
+
+&lt;p&gt;&lt;button onClick="lity('https://vimeo.com/210899724')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Link30&lt;/button&gt;
+&lt;button onClick="lity('https://vimeo.com/210899839')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Link50&lt;/button&gt;
+&lt;button onClick="lity('https://vimeo.com/210899886')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Link60&lt;/button&gt;
+&lt;button onClick="lity('https://vimeo.com/211189543')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿組合 &lt;/button&gt;&lt;/p&gt;
 &lt;p&gt;三.第三周心得&lt;/p&gt;</summary><category term="HyperWorks"></category><category term="SolvSspace"></category><category term="Onshape"></category><category term="Fossil"></category></entry><entry><title>2017/03/01 W2</title><link href="./2017Spring-cd-W2.html" rel="alternate"></link><published>2017-03-01T12:00:00+08:00</published><updated>2017-03-01T12:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-01:./2017Spring-cd-W2.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第二週上課內容&lt;/h2&gt;
 
 
@@ -166,7 +190,7 @@ Exit
 &lt;p&gt;&lt;a href="https://vimeo.com/208267743"&gt;Untitled&lt;/a&gt; from &lt;a href="https://vimeo.com/user60140629"&gt;40423246&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2&gt;第二週心得&lt;/h2&gt;
-&lt;p&gt;這禮拜是有用程式進行分組，但是我在使用程式碼的時候，不知道出現什麼狀況，一直當機，至後會使用組員的影片來介紹程式碼的使用&lt;/p&gt;</summary><category term="Notes  w2"></category></entry><entry><title>2017/02/22 W1</title><link href="./2017spring-cd-W1.html" rel="alternate"></link><published>2017-02-25T15:00:00+08:00</published><updated>2017-02-25T15:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-02-25:./2017spring-cd-W1.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第一週&lt;/h2&gt;
+&lt;p&gt;這禮拜是有用程式進行分組，但是我在使用程式碼的時候，不知道出現什麼狀況，一直當機，至後會使用組員的影片來介紹程式碼的使用&lt;/p&gt;</summary><category term="Notes  w2"></category></entry><entry><title>2017/02/22 W1</title><link href="./2017spring-cd-W1.html" rel="alternate"></link><published>2017-02-25T15:00:00+08:00</published><updated>2017-02-25T15:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-02-25:./2017spring-cd-W1.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第一週上課內容&lt;/h2&gt;
 
 
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;一.&lt;/span&gt;可至&lt;a href="http://mde.tw/2017springcd/blog/2017spring-cd.html"&gt;2017 Spring 協同產品設計實習&lt;/a&gt;觀看這學期的課程大綱，老師介紹了Blender 3dstudio maya的相關性，簡略說明c語言與python的優劣與使用時機。&lt;/p&gt;
