@@ -43,6 +43,9 @@
 <v t="leo.20170303010459.2" a="E"><vh>筆記</vh>
 <v t="leo.20170303010459.3"><vh>內容</vh></v>
 </v>
+<v t="leo.20170411222456.1" a="E"><vh>筆記</vh>
+<v t="leo.20170411222456.2"><vh>內容</vh></v>
+</v>
 </v>
 <v t="leo.20170303005948.1"><vh>2017/03/01 w2上課內容</vh>
 <v t="leo.20170303005948.2" a="E"><vh>筆記</vh>
@@ -50,6 +53,12 @@
 </v>
 <v t="leo.20170303010908.1" a="E"><vh>筆記</vh>
 <v t="leo.20170303010908.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170411223122.1" a="E"><vh>筆記</vh>
+<v t="leo.20170411223122.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170411223124.1" a="E"><vh>筆記</vh>
+<v t="leo.20170411223124.2"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20170321162431.1"><vh>2017/03/08 w3上課內容</vh>
@@ -59,8 +68,29 @@
 <v t="leo.20170321171654.1" a="E"><vh>筆記</vh>
 <v t="leo.20170321171654.2"><vh>內容</vh></v>
 </v>
+<v t="leo.20170411223522.1" a="E"><vh>筆記</vh>
+<v t="leo.20170411223522.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20170329203100.1" a="E"><vh>2017/03/15 w4上課內容</vh>
+<v t="leo.20170411223532.1" a="E"><vh>筆記</vh>
+<v t="leo.20170411223532.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170411223534.1" a="E"><vh>筆記</vh>
+<v t="leo.20170411223534.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170411223544.1" a="E"><vh>筆記</vh>
+<v t="leo.20170411223544.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170411223546.1" a="E"><vh>筆記</vh>
+<v t="leo.20170411223546.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170411223548.1" a="E"><vh>筆記</vh>
+<v t="leo.20170411223548.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170411223551.1" a="E"><vh>筆記</vh>
+<v t="leo.20170411223551.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170329203100.1"><vh>2017/03/15 w4上課內容</vh>
 <v t="leo.20170329203100.2" a="E"><vh>筆記</vh>
 <v t="leo.20170329203100.3"><vh>內容</vh></v>
 </v>
@@ -69,6 +99,9 @@
 </v>
 <v t="leo.20170329203812.1" a="E"><vh>筆記</vh>
 <v t="leo.20170329203812.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170411224222.1" a="E"><vh>筆記</vh>
+<v t="leo.20170411224222.2"><vh>內容</vh></v>
 </v>
 <v t="leo.20170329203919.1" a="E"><vh>筆記</vh>
 <v t="leo.20170329203919.2"><vh>內容</vh></v>
@@ -80,17 +113,28 @@
 <v t="leo.20170329204039.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170329203101.1" a="E"><vh>2017/03/22 w5上課內容</vh>
+<v t="leo.20170329203101.1"><vh>2017/03/22 w5上課內容</vh>
 <v t="leo.20170329203101.2" a="E"><vh>筆記</vh>
 <v t="leo.20170329203101.3"><vh>內容</vh></v>
 </v>
+<v t="leo.20170411224501.1" a="E"><vh>筆記</vh>
+<v t="leo.20170411224501.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20170329203127.1" a="E"><vh>2017/03/29 w6上課內容</vh>
+<v t="leo.20170411224922.1" a="E"><vh>筆記</vh>
+<v t="leo.20170411224922.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170329203127.1"><vh>2017/03/29 w6上課內容</vh>
 <v t="leo.20170329203127.2" a="E"><vh>筆記</vh>
 <v t="leo.20170329203127.3"><vh>內容</vh></v>
 </v>
 <v t="leo.20170329203127.4" a="E"><vh>筆記</vh>
 <v t="leo.20170329203127.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170411225333.1" a="E"><vh>2017/04/05 w7上課內容</vh>
+<v t="leo.20170411225333.2" a="E"><vh>筆記</vh>
+<v t="leo.20170411225333.3"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -102,9 +146,10 @@
 <v t="leo.20170308112934.1"><vh>@edit 20170222.md</vh></v>
 <v t="leo.20170314152453.1"><vh>@edit 20170301.md</vh></v>
 <v t="leo.20170321164135.1"><vh>@edit 20170308.md</vh></v>
-<v t="leo.20170321171114.1"><vh>@edit 201703015.md</vh></v>
-<v t="leo.20170403001826.1"><vh>@edit 201703022.md</vh></v>
-<v t="leo.20170403001828.1"><vh>@edit 201703029.md</vh></v>
+<v t="leo.20170321171114.1"><vh>@edit 20170315.md</vh></v>
+<v t="leo.20170403001826.1"><vh>@edit 20170322.md</vh></v>
+<v t="leo.20170403001828.1"><vh>@edit 20170329.md</vh></v>
+<v t="leo.20170411225412.1"><vh>@edit 20170405.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -150,7 +195,7 @@
 </t>
 <t tx="leo.20170303005948.3"># 2017/03/01第二周上課內容
 
-*筆記
+*一.筆記
 
 1.tiny2017 - with_pip\data\stunnel\config的stunnel.conf檔案
 
@@ -178,6 +223,8 @@
 						
 </t>
 <t tx="leo.20170303010459.3"># 2017/02/22 第一周上課內容
+
+*一.筆記
 
 1.這學期課程大綱
 
@@ -243,7 +290,7 @@
 </t>
 <t tx="leo.20170321162431.3"># 2017/03/08第三周上課內容
 
-*筆記
+*.一.筆記
 
 1.了解使用HYPERWORKS
 
@@ -299,7 +346,7 @@ https://mde2a2.kmol.info/cdbg5/home
 						
 </t>
 <t tx="leo.20170329203100.5">
-#2.HYPERWORKS 翻譯 </t>
+#二.HYPERWORKS 翻譯 </t>
 <t tx="leo.20170329203101.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -316,7 +363,7 @@ https://mde2a2.kmol.info/cdbg5/home
 </t>
 <t tx="leo.20170329203101.3"># 2017/03/22第五周上課內容
 
-*筆記
+*一.筆記
 
 1.Fossil SCM與Stunnel啟動整合
 
@@ -366,7 +413,9 @@ https://mde2a2.kmol.info/cdbg5/home
 						
 </t>
 <t tx="leo.20170329203812.2">
-#3.單聯桿 solvespace組合</t>
+#三.單聯桿 solvespace繪製
+
+&lt;iframe src="https://player.vimeo.com/video/210904309" width="640" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20170329203919.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -378,8 +427,9 @@ https://mde2a2.kmol.info/cdbg5/home
 
 						
 </t>
-<t tx="leo.20170329203919.2">
-#1. Line 1</t>
+<t tx="leo.20170329203919.2">#四. solvespace組立轉入v-rep
+
+&lt;iframe src="https://player.vimeo.com/video/210906520" width="640" height="346" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20170329203922.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -392,7 +442,9 @@ https://mde2a2.kmol.info/cdbg5/home
 						
 </t>
 <t tx="leo.20170329203922.2">
-#2. Line 2</t>
+#五.Onshape繪製
+
+&lt;iframe src="https://player.vimeo.com/video/210905493" width="640" height="298" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20170329204039.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -405,7 +457,217 @@ https://mde2a2.kmol.info/cdbg5/home
 						
 </t>
 <t tx="leo.20170329204039.2">
-#3. Line 3</t>
+#六.onshape組立轉入v-rep
+
+&lt;iframe src="https://player.vimeo.com/video/210907004" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411222456.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411222456.2">##二.學習使用STUNNEL
+
+&lt;iframe src="https://player.vimeo.com/video/207244552" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411223122.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411223122.2">二.solvespace組立四連桿
+
+1.元件加上軸心
+&lt;iframe src="https://player.vimeo.com/video/208267757" width="640" height="340" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411223124.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411223124.2">四連桿機構組合
+&lt;iframe src="https://player.vimeo.com/video/208267743" width="640" height="340" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411223522.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411223522.2">二.四連桿機構
+
+solvespace
+
+LINK30製圖影片
+&lt;iframe src="https://player.vimeo.com/video/211101501" width="640" height="340" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411223532.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411223532.2">軌跡圖
+
+&lt;iframe src="https://player.vimeo.com/video/211101501" width="640" height="340" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411223534.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411223534.2">四連桿組合
+
+&lt;iframe src="https://player.vimeo.com/video/211101501" width="640" height="340" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411223544.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411223544.2">onshape
+
+LINK30
+
+&lt;iframe src="https://player.vimeo.com/video/210899724" width="640" height="298" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411223546.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411223546.2">LINK50
+
+&lt;iframe src="https://player.vimeo.com/video/210899839" width="640" height="298" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411223548.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411223548.2">LINK60
+
+&lt;iframe src="https://player.vimeo.com/video/210899886" width="640" height="298" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411223551.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411223551.2">四連桿組合
+
+&lt;iframe src="https://player.vimeo.com/video/211189543" width="640" height="298" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411224222.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411224222.2">
+#三.單聯桿 solvespace組合
+
+&lt;iframe src="https://player.vimeo.com/video/210904346" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411224501.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411224501.2">二.solvespace將單連桿轉入v-rep進行馬達運動模擬
+
+&lt;iframe src="https://player.vimeo.com/video/210906520" width="640" height="346" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170411224922.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411224922.2">三.solvespace轉入V-rep加入馬達
+
+&lt;iframe src="https://player.vimeo.com/video/210913103" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210913103"&gt;solvespace轉入V-rep加入馬達&lt;/a&gt; from &lt;a href="https://vimeo.com/user60140629"&gt;40423246&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170411225333.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170411225333.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411225333.3"># 2017/04/5第七周上課內容
+
+*筆記
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
