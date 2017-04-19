@@ -1,13 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-04-05T13:00:00+08:00</updated><entry><title>2017/04/05 W7</title><link href="./2017Spring-cd-W7.html" rel="alternate"></link><published>2017-04-05T13:00:00+08:00</published><updated>2017-04-05T13:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-04-05:./2017Spring-cd-W7.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第七週上課內容&lt;/h2&gt;
 </summary><category term="111"></category></entry><entry><title>2017/03/29 W6</title><link href="./2017Spring-cd-W6.html" rel="alternate"></link><published>2017-03-29T13:00:00+08:00</published><updated>2017-03-29T13:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-29:./2017Spring-cd-W6.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第六週上課內容&lt;/h2&gt;
-</summary><category term="111"></category></entry><entry><title>2017/03/22 W5</title><link href="./2017Spring-cd-W5.html" rel="alternate"></link><published>2017-03-22T13:00:00+08:00</published><updated>2017-03-22T13:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-22:./2017Spring-cd-W5.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第五週上課內容&lt;/h2&gt;
+&lt;h3&gt;Fourbar運動模擬&lt;/h3&gt;
+&lt;h3&gt;1.各零件尺寸&lt;/h3&gt;
+&lt;h3&gt;二.在 V-rep 模擬 Fourbar&lt;/h3&gt;
+&lt;h3&gt;三.解決倉儲推送出現問題&lt;/h3&gt;
+
+
+&lt;h2&gt;Fourbar運動模擬&lt;/h2&gt;
+&lt;h2&gt;1.各零件尺寸&lt;/h2&gt;
+&lt;p&gt;1.link01&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/4bar/four/solvespace_2017-04-18_18-40-39.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;2.link30&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/4bar/four/solvespace_2017-04-18_18-40-53.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;3.link50&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/4bar/four/solvespace_2017-04-18_18-41-12.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;4.link60&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/4bar/four/solvespace_2017-04-18_18-41-28.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;4.link8*10&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/4bar/four/solvespace_2017-04-18_18-41-44.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/4bar/four/solvespace_2017-04-18_18-41-59.png" width="560" /&gt;&lt;/p&gt;
+&lt;h2&gt;二.在 V-rep 模擬 Fourbar&lt;/h2&gt;
+&lt;p&gt;&lt;button onClick="lity('https://vimeo.com/211155142')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;V-rep&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/4bar/four/vrep_2017-04-18_19-02-46.png" width="560" /&gt;&lt;/p&gt;
+&lt;h2&gt;三.解決倉儲推送出現問題&lt;/h2&gt;
+&lt;p&gt;&lt;img src="./../data/chrome_2017-04-18_19-34-27.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/chrome_2017-04-18_19-36-53.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;解決辦法：
+刪掉裡面所有的東西&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/explorer_2017-04-18_19-39-40.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;原因：是Github更新造成版本錯誤，只要刪掉衝突的東西就能正常上傳。&lt;/p&gt;
+&lt;h2&gt;四.心得：&lt;/h2&gt;
+&lt;p&gt;這次發現無法推到Github，有點嚇到，以為我把它弄爆了，去查了一下知道怎麼解決，感覺還不錯，下次如過有問題，希望也能這樣順利解決。&lt;/p&gt;</summary><category term="111"></category></entry><entry><title>2017/03/22 W5</title><link href="./2017Spring-cd-W5.html" rel="alternate"></link><published>2017-03-22T13:00:00+08:00</published><updated>2017-03-22T13:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-22:./2017Spring-cd-W5.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第五週上課內容&lt;/h2&gt;
+&lt;h3&gt;一. 更改 Start.bat 設定&lt;/h3&gt;
+&lt;h3&gt;二.solvespace將單連桿轉入v-rep進行馬達運動模擬&lt;/h3&gt;
 
 
 &lt;h2&gt;一.Fossil SCM 與 Stunnel 啟動整合&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;更改 Start.bat 設定&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;一. 更改 Start.bat 設定&lt;/p&gt;
 &lt;pre class="brush: python"&gt;
 REM tiny2017 主要針對初學 Python3 與 C 學員所建立
 REM 近端使用 fossil 管理資料版本, 並且定時轉為 git 格式後上傳到 github
@@ -67,6 +97,8 @@ Exit
 &lt;p&gt;&lt;a href="https://vimeo.com/210906520"&gt;solvespace組立轉入v-rep&lt;/a&gt; from &lt;a href="https://vimeo.com/user60140629"&gt;40423246&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;h2&gt;三.心得&lt;/h2&gt;
 &lt;p&gt;這次上課學到如何將畫好的機構，使用V-rep來做運動模擬，在對於新產品開發有很大的幫助。&lt;/p&gt;</summary><category term="Fossil SCM 與 Stunnel 啟動整合"></category></entry><entry><title>2017/03/15 W4</title><link href="./2017Spring-cd-W14.html" rel="alternate"></link><published>2017-03-15T13:00:00+08:00</published><updated>2017-03-15T13:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-15:./2017Spring-cd-W14.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第四週上課內容&lt;/h2&gt;
+&lt;h3&gt;一、Fossil SCM倉儲&lt;/h3&gt;
+&lt;h3&gt;二、單連桿機構&lt;/h3&gt;
 
 
 &lt;h2&gt;一、Fossil SCM倉儲&lt;/h2&gt;
@@ -79,6 +111,8 @@ Exit
 &lt;p&gt;onshape組立轉入v-rep&lt;button onClick="lity('https://vimeo.com/210907004')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;影片&lt;/button&gt;&lt;/p&gt;
 &lt;h2&gt;三.心得&lt;/h2&gt;
 &lt;p&gt;這次上課老師教我們用一個主機倉儲，只要有一台主機是保持在網路連線，我們就可以直接從這台主機上下載檔案，這對於Github未來有可能收費或消失的替代方案。&lt;/p&gt;</summary><category term="Fossil SCM倉儲"></category></entry><entry><title>2017/03/08 W3</title><link href="./2017Spring-cd-W3.html" rel="alternate"></link><published>2017-03-08T13:00:00+08:00</published><updated>2017-03-08T13:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-08:./2017Spring-cd-W3.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第三週上課內容&lt;/h2&gt;
+&lt;h3&gt;一.近端Fossil&lt;/h3&gt;
+&lt;h3&gt;二.四連桿機構&lt;/h3&gt;
 
 
 &lt;h3&gt;HyperWorks 14.0 Student Edition&lt;/h3&gt;
@@ -167,9 +201,11 @@ Exit
 &lt;button onClick="lity('https://vimeo.com/211189543')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿組合 &lt;/button&gt;&lt;/p&gt;
 &lt;h2&gt;三.第三周心得&lt;/h2&gt;
 &lt;p&gt;今天是對fossil有更深得的了解，這周也畫了一些零件，下周就會用這些零件來模擬運動。&lt;/p&gt;</summary><category term="HyperWorks"></category><category term="SolvSspace"></category><category term="Onshape"></category><category term="Fossil"></category></entry><entry><title>2017/03/01 W2</title><link href="./2017Spring-cd-W2.html" rel="alternate"></link><published>2017-03-01T13:00:00+08:00</published><updated>2017-03-01T13:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-01:./2017Spring-cd-W2.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第二週上課內容&lt;/h2&gt;
+&lt;h3&gt;一.利用python找出缺課人員&lt;/h3&gt;
+&lt;h3&gt;二.solvespace組立四連桿&lt;/h3&gt;
 
 
-&lt;p&gt;一.利用python找出缺課人員&lt;/p&gt;
+&lt;h2&gt;一.利用python找出缺課人員&lt;/h2&gt;
 &lt;p&gt;到班級倉儲data下載W2資料夾裡的cd_w2.py座位表的人w2b_registered.txt，再來利用程式碼列印分組名單；座位表。&lt;/p&gt;
 &lt;h2&gt;分組座位程式碼&lt;/h2&gt;
 &lt;pre class="brush: python"&gt;
@@ -246,7 +282,7 @@ Exit
 &lt;h1&gt;print(os.environ)&lt;/h1&gt;
 &lt;/pre&gt;
 
-&lt;p&gt;二.solvespace組立四連桿&lt;/p&gt;
+&lt;h2&gt;二.solvespace組立四連桿&lt;/h2&gt;
 &lt;p&gt;1.元件加上軸心&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/208267757" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -259,12 +295,11 @@ Exit
 
 &lt;h2&gt;第二週心得&lt;/h2&gt;
 &lt;p&gt;這禮拜是有用程式進行分組，但是我在使用程式碼的時候，不知道出現什麼狀況，一直當機，至後會使用組員的影片來介紹程式碼的使用&lt;/p&gt;</summary><category term="Notes  w2"></category></entry><entry><title>2017/02/22 W1</title><link href="./2017spring-cd-W1.html" rel="alternate"></link><published>2017-02-25T13:00:00+08:00</published><updated>2017-02-25T13:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-02-25:./2017spring-cd-W1.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第一週上課內容&lt;/h2&gt;
-
-
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;一.&lt;/span&gt;可至&lt;a href="http://mde.tw/2017springcd/blog/2017spring-cd.html"&gt;2017 Spring 協同產品設計實習&lt;/a&gt;觀看這學期的課程大綱，老師介紹了Blender 3dstudio maya的相關性，簡略說明c語言與python的優劣與使用時機。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;二.&lt;/span&gt;了解如何使用stunnel
-，並且嘗試以anonymous（無名氏/遊客）的身份進入https://192.168.1.24/2017springvcp_hw/index。&lt;/p&gt;
-&lt;p&gt;在按下start之後，會出現錯誤的圖案&lt;span style="background-color: #55ff55"&gt;(1)&lt;/span&gt;，這是因為stunnel資料夾裡的config/styunnel.conf裡的ip與電腦的ip不同(styunnel.conf裡的分號代表註解)，可至cmd打ipconfig/all的指令，找到電腦的ip位置並將其複製、貼到styunnel.conf裡&lt;span style="background-color: #55ff55"&gt;(2)&lt;/span&gt;，(443為https的Port號不須修改)，如果有設置proxy就必須要到設定proxy的地方按進階，將電腦ip設為額外ip，這樣就可至google打網址，並且嘗試以anonymous（無名氏/遊客）的身份進入https://192.168.1.24/2017springvcp_hw/index。&lt;/p&gt;
+，並且嘗試以anonymous（無名氏/遊客）的身份進入https://192.168.1.24/2017springvcp_hw/index。
+
+在按下start之後，會出現錯誤的圖案&lt;span style="background-color: #55ff55"&gt;(1)&lt;/span&gt;，這是因為stunnel資料夾裡的config/styunnel.conf裡的ip與電腦的ip不同(styunnel.conf裡的分號代表註解)，可至cmd打ipconfig/all的指令，找到電腦的ip位置並將其複製、貼到styunnel.conf裡&lt;span style="background-color: #55ff55"&gt;(2)&lt;/span&gt;，(443為https的Port號不須修改)，如果有設置proxy就必須要到設定proxy的地方按進階，將電腦ip設為額外ip，這樣就可至google打網址，並且嘗試以anonymous（無名氏/遊客）的身份進入https://192.168.1.24/2017springvcp_hw/index。&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/207244552" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/207244552"&gt;2017-03-07_15-01-23&lt;/a&gt; from &lt;a href="https://vimeo.com/user60140629"&gt;40423246&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
