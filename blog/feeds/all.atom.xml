@@ -37,14 +37,14 @@
 &lt;p&gt;&lt;img src="./../data/8link/eight/solvespace link60.png" width="560" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/8link/eight/solvespae link50.png" width="560" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/8link/eight/triangle_upper.png" width="560" /&gt;&lt;/p&gt;</summary><category term="w7"></category></entry><entry><title>2017/03/29 W6</title><link href="./2017Spring-cd-W6.html" rel="alternate"></link><published>2017-03-29T13:00:00+08:00</published><updated>2017-03-29T13:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-29:./2017Spring-cd-W6.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第六週上課內容&lt;/h2&gt;
-&lt;h3&gt;Fourbar運動模擬&lt;/h3&gt;
-&lt;h3&gt;1.各零件尺寸&lt;/h3&gt;
-&lt;h3&gt;二.在 V-rep 模擬 Fourbar&lt;/h3&gt;
-&lt;h3&gt;三.解決倉儲推送出現問題&lt;/h3&gt;
-
-
 &lt;h2&gt;Fourbar運動模擬&lt;/h2&gt;
 &lt;h2&gt;1.各零件尺寸&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/214884580" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/214884580"&gt;V-rep 模擬四連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user60140629"&gt;40423246&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+
 &lt;p&gt;1.link01&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/4bar/four/solvespace_2017-04-18_18-40-39.png" width="560" /&gt;&lt;/p&gt;
 &lt;p&gt;2.link30&lt;/p&gt;
@@ -68,12 +68,10 @@
 &lt;p&gt;原因：是Github更新造成版本錯誤，只要刪掉衝突的東西就能正常上傳。&lt;/p&gt;
 &lt;h2&gt;四.心得：&lt;/h2&gt;
 &lt;p&gt;這次發現無法推到Github，有點嚇到，以為我把它弄爆了，去查了一下知道怎麼解決，感覺還不錯，下次如過有問題，希望也能這樣順利解決。&lt;/p&gt;</summary><category term="111"></category></entry><entry><title>2017/03/22 W5</title><link href="./2017Spring-cd-W5.html" rel="alternate"></link><published>2017-03-22T13:00:00+08:00</published><updated>2017-03-22T13:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-22:./2017Spring-cd-W5.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第五週上課內容&lt;/h2&gt;
-&lt;h3&gt;一. 更改 Start.bat 設定&lt;/h3&gt;
-&lt;h3&gt;二.solvespace將單連桿轉入v-rep進行馬達運動模擬&lt;/h3&gt;
-
-
 &lt;h2&gt;一.Fossil SCM 與 Stunnel 啟動整合&lt;/h2&gt;
 &lt;p&gt;一. 更改 Start.bat 設定&lt;/p&gt;
+
+
 &lt;pre class="brush: python"&gt;
 REM tiny2017 主要針對初學 Python3 與 C 學員所建立
 REM 近端使用 fossil 管理資料版本, 並且定時轉為 git 格式後上傳到 github
@@ -133,8 +131,6 @@ Exit
 &lt;p&gt;&lt;a href="https://vimeo.com/210906520"&gt;solvespace組立轉入v-rep&lt;/a&gt; from &lt;a href="https://vimeo.com/user60140629"&gt;40423246&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;h2&gt;三.心得&lt;/h2&gt;
 &lt;p&gt;這次上課學到如何將畫好的機構，使用V-rep來做運動模擬，在對於新產品開發有很大的幫助。&lt;/p&gt;</summary><category term="Fossil SCM 與 Stunnel 啟動整合"></category></entry><entry><title>2017/03/15 W4</title><link href="./2017Spring-cd-W14.html" rel="alternate"></link><published>2017-03-15T13:00:00+08:00</published><updated>2017-03-15T13:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-15:./2017Spring-cd-W14.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第四週上課內容&lt;/h2&gt;
-&lt;h3&gt;一、Fossil SCM倉儲&lt;/h3&gt;
-&lt;h3&gt;二、單連桿機構&lt;/h3&gt;
 
 
 &lt;h2&gt;一、Fossil SCM倉儲&lt;/h2&gt;
@@ -142,18 +138,19 @@ Exit
 &lt;h2&gt;二、單連桿機構&lt;/h2&gt;
 &lt;p&gt;solvespace繪製&lt;button onClick="lity('https://vimeo.com/210904309')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 單聯桿機構 繪製&lt;/button&gt;
 &lt;button onClick="lity('https://vimeo.com/210904346')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 單聯桿機構組合&lt;/button&gt;&lt;/p&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
 &lt;p&gt;solvespace組立轉入v-rep&lt;button onClick="lity('https://vimeo.com/210906520')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 影片&lt;/button&gt;&lt;/p&gt;
 &lt;p&gt;Onshape繪製&lt;button onClick="lity('https://vimeo.com/210905493')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 單連桿機構&lt;/button&gt;&lt;/p&gt;
 &lt;p&gt;onshape組立轉入v-rep&lt;button onClick="lity('https://vimeo.com/210907004')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;影片&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;單聯桿轉入V-rep加入馬達&lt;button onClick="lity('https://vimeo.com/210913103')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;影片&lt;/button&gt;&lt;/p&gt;
 &lt;h2&gt;三.心得&lt;/h2&gt;
 &lt;p&gt;這次上課老師教我們用一個主機倉儲，只要有一台主機是保持在網路連線，我們就可以直接從這台主機上下載檔案，這對於Github未來有可能收費或消失的替代方案。&lt;/p&gt;</summary><category term="Fossil SCM倉儲"></category></entry><entry><title>2017/03/08 W3</title><link href="./2017Spring-cd-W3.html" rel="alternate"></link><published>2017-03-08T13:00:00+08:00</published><updated>2017-03-08T13:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-08:./2017Spring-cd-W3.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第三週上課內容&lt;/h2&gt;
-&lt;h3&gt;一.近端Fossil&lt;/h3&gt;
-&lt;h3&gt;二.四連桿機構&lt;/h3&gt;
-
-
 &lt;h3&gt;HyperWorks 14.0 Student Edition&lt;/h3&gt;
 
 &lt;p&gt;Student Edition: &lt;a href="http://www.altairuniversity.com/get-the-free-hyperworks-14-0-student-edition/"&gt;下載位址Download Now!&lt;/a&gt;&lt;/p&gt;
+
+
 
 &lt;h3&gt;一.近端Fossil&lt;/h3&gt;
 
@@ -237,12 +234,10 @@ Exit
 &lt;button onClick="lity('https://vimeo.com/211189543')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿組合 &lt;/button&gt;&lt;/p&gt;
 &lt;h2&gt;三.第三周心得&lt;/h2&gt;
 &lt;p&gt;今天是對fossil有更深得的了解，這周也畫了一些零件，下周就會用這些零件來模擬運動。&lt;/p&gt;</summary><category term="HyperWorks"></category><category term="SolvSspace"></category><category term="Onshape"></category><category term="Fossil"></category></entry><entry><title>2017/03/01 W2</title><link href="./2017Spring-cd-W2.html" rel="alternate"></link><published>2017-03-01T13:00:00+08:00</published><updated>2017-03-01T13:00:00+08:00</updated><author><name>40423246</name></author><id>tag:,2017-03-01:./2017Spring-cd-W2.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第二週上課內容&lt;/h2&gt;
-&lt;h3&gt;一.利用python找出缺課人員&lt;/h3&gt;
-&lt;h3&gt;二.solvespace組立四連桿&lt;/h3&gt;
-
-
 &lt;h2&gt;一.利用python找出缺課人員&lt;/h2&gt;
 &lt;p&gt;到班級倉儲data下載W2資料夾裡的cd_w2.py座位表的人w2b_registered.txt，再來利用程式碼列印分組名單；座位表。&lt;/p&gt;
+
+
 &lt;h2&gt;分組座位程式碼&lt;/h2&gt;
 &lt;pre class="brush: python"&gt;
 
