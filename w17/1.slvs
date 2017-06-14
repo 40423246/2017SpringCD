@@ -1,165 +1,7 @@
-<!DOCTYPE html>
-<html lang="en"
->
-<head>
-    <title>2017/06/14 W17 - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
-    <!-- Using the latest rendering mode for IE -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+���SolveSpaceREVa
 
 
-
-<link rel="canonical" href="./2017Spring-cd-W17.html">
-
-        <meta name="author" content="40423246" />
-        <meta name="keywords" content="111" />
-        <meta name="description" content="各組員網誌上的 2D 繪圖, 並將程式碼顯示在繪圖網誌文章中 ѲԓolveSpaceREVa Group.h.v=00000001 Group.type=5000 Group.name=#references Group.color=ff000000 Group.skipFirst=0 Group.predef.swapUV=0 Group.predef.negateU=0 Group.predef.negateV=0 Group.visible=1 Group.suppress=0 Group.relaxConstraints=0 Group.allowRedundant=0 Group.allDimsReference=0 Group.remap ..." />
-
-        <meta property="og:site_name" content="2017Spring 協同產品設計實習 (虎尾科大MDE)" />
-        <meta property="og:type" content="article"/>
-        <meta property="og:title" content="2017/06/14 W17"/>
-        <meta property="og:url" content="./2017Spring-cd-W17.html"/>
-        <meta property="og:description" content="各組員網誌上的 2D 繪圖, 並將程式碼顯示在繪圖網誌文章中 ѲԓolveSpaceREVa Group.h.v=00000001 Group.type=5000 Group.name=#references Group.color=ff000000 Group.skipFirst=0 Group.predef.swapUV=0 Group.predef.negateU=0 Group.predef.negateV=0 Group.visible=1 Group.suppress=0 Group.relaxConstraints=0 Group.allowRedundant=0 Group.allDimsReference=0 Group.remap ..."/>
-        <meta property="article:published_time" content="2017-06-14" />
-            <meta property="article:section" content="Course" />
-            <meta property="article:tag" content="111" />
-            <meta property="article:author" content="40423246" />
-
-
-    <!-- Bootstrap -->
-        <link rel="stylesheet" href="./theme/css/bootstrap.united.min.css" type="text/css"/>
-    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
-
-    <link href="./theme/css/pygments/monokai.css" rel="stylesheet">
-    <link href="./theme/tipuesearch/tipuesearch.css" rel="stylesheet">
-    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
-
-        <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
-              title="2017Spring 協同產品設計實習 (虎尾科大MDE) ATOM Feed"/>
-
-<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shCore.js"></script>
-<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushJScript.js"></script>
-<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushJava.js"></script>
-<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushPython.js"></script>
-<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushSql.js"></script>
-<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushXml.js"></script>
-<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushPhp.js"></script>
-<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushCpp.js"></script>
-<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushCss.js"></script>
-<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushCSharp.js"></script>
-<script type="text/javascript" src="https://coursemdetw.github.io/project_site_files/files/syntaxhighlighter/shBrushBash.js"></script>
-<script type='text/javascript'>
-	(function(){
-		var corecss = document.createElement('link');
-		var themecss = document.createElement('link');
-		var corecssurl = "https://chiamingyen.github.io/kmolab_data/files/syntaxhighlighter/css/shCore.css";
-		if ( corecss.setAttribute ) {
-				corecss.setAttribute( "rel", "stylesheet" );
-				corecss.setAttribute( "type", "text/css" );
-				corecss.setAttribute( "href", corecssurl );
-		} else {
-				corecss.rel = "stylesheet";
-				corecss.href = corecssurl;
-		}
-		document.getElementsByTagName("head")[0].insertBefore( corecss, document.getElementById("syntaxhighlighteranchor") );
-		var themecssurl = "https://chiamingyen.github.io/kmolab_data/files/syntaxhighlighter/css/shThemeDefault.css?ver=3.0.9b";
-		if ( themecss.setAttribute ) {
-				themecss.setAttribute( "rel", "stylesheet" );
-				themecss.setAttribute( "type", "text/css" );
-				themecss.setAttribute( "href", themecssurl );
-		} else {
-				themecss.rel = "stylesheet";
-				themecss.href = themecssurl;
-		}
-		//document.getElementById("syntaxhighlighteranchor").appendChild(themecss);
-		document.getElementsByTagName("head")[0].insertBefore( themecss, document.getElementById("syntaxhighlighteranchor") );
-	})();
-	SyntaxHighlighter.config.strings.expandSource = '+ expand source';
-	SyntaxHighlighter.config.strings.help = '?';
-	SyntaxHighlighter.config.strings.alert = 'SyntaxHighlighter\n\n';
-	SyntaxHighlighter.config.strings.noBrush = 'Can\'t find brush for: ';
-	SyntaxHighlighter.config.strings.brushNotHtmlScript = 'Brush wasn\'t configured for html-script option: ';
-	SyntaxHighlighter.defaults['pad-line-numbers'] = false;
-	SyntaxHighlighter.defaults['toolbar'] = false;
-	SyntaxHighlighter.all();
-</script>
-
-</head>
-<body>
-
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-	<div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a href="./" class="navbar-brand">
-2017Spring 協同產品設計實習 (虎尾科大MDE)            </a>
-        </div>
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
-            <ul class="nav navbar-nav">
-                         <li><a href="./pages/about/">
-                             About
-                          </a></li>
-                        <li class="active">
-                            <a href="./category/course.html">Course</a>
-                        </li>
-            </ul>
-            <ul class="nav navbar-nav navbar-right">
-              <li><span>
-                <form class="navbar-search" action="./search.html">
-                  <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
-                </form></span>
-              </li>
-              <li><a href="./archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-</div> <!-- /.navbar -->
-<!-- Banner -->
-<!-- End Banner -->
-<div class="container">
-    <div class="row">
-        <div class="col-sm-9">
-
-    <section id="content">
-        <article>
-            <header class="page-header">
-                <h1>
-                    <a href="./2017Spring-cd-W17.html"
-                       rel="bookmark"
-                       title="Permalink to 2017/06/14 W17">
-                        2017/06/14 W17
-                    </a>
-                </h1>
-            </header>
-            <div class="entry-content">
-                <div class="panel">
-                    <div class="panel-body">
-<footer class="post-info">
-    <span class="label label-default">Date</span>
-    <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2017-06-14T13:00:00+08:00"> 週三 14 六月 2017</time>
-    </span>
-            <span class="label label-default">By</span>
-            <a href="./author/40423246.html"><i class="fa fa-user"></i> 40423246</a>
-
-
-
-<span class="label label-default">Tags</span>
-	<a href="./tag/111.html">111</a>
-    
-</footer><!-- /.post-info -->                    </div>
-                </div>
-                <p>各組員網誌上的 2D 繪圖, 並將程式碼顯示在繪圖網誌文章中
-<pre class="brush: python">
-ѲԓolveSpaceREVa</p>
-<p>Group.h.v=00000001
+Group.h.v=00000001
 Group.type=5000
 Group.name=#references
 Group.color=ff000000
@@ -174,8 +16,9 @@ Group.allowRedundant=0
 Group.allDimsReference=0
 Group.remap={
 }
-AddGroup</p>
-<p>Group.h.v=00000002
+AddGroup
+
+Group.h.v=00000002
 Group.type=5001
 Group.order=1
 Group.name=sketch-in-plane
@@ -195,8 +38,9 @@ Group.allowRedundant=0
 Group.allDimsReference=0
 Group.remap={
 }
-AddGroup</p>
-<p>Group.h.v=00000003
+AddGroup
+
+Group.h.v=00000003
 Group.type=5100
 Group.order=2
 Group.name=extrude
@@ -234,125 +78,162 @@ Group.remap={
     17 00000000 1001
     18 00000000 1002
 }
-AddGroup</p>
-<p>Param.h.v.=00010010
-AddParam</p>
-<p>Param.h.v.=00010011
-AddParam</p>
-<p>Param.h.v.=00010012
-AddParam</p>
-<p>Param.h.v.=00010020
+AddGroup
+
+Param.h.v.=00010010
+AddParam
+
+Param.h.v.=00010011
+AddParam
+
+Param.h.v.=00010012
+AddParam
+
+Param.h.v.=00010020
 Param.val=1.00000000000000000000
-AddParam</p>
-<p>Param.h.v.=00010021
-AddParam</p>
-<p>Param.h.v.=00010022
-AddParam</p>
-<p>Param.h.v.=00010023
-AddParam</p>
-<p>Param.h.v.=00020010
-AddParam</p>
-<p>Param.h.v.=00020011
-AddParam</p>
-<p>Param.h.v.=00020012
-AddParam</p>
-<p>Param.h.v.=00020020
+AddParam
+
+Param.h.v.=00010021
+AddParam
+
+Param.h.v.=00010022
+AddParam
+
+Param.h.v.=00010023
+AddParam
+
+Param.h.v.=00020010
+AddParam
+
+Param.h.v.=00020011
+AddParam
+
+Param.h.v.=00020012
+AddParam
+
+Param.h.v.=00020020
 Param.val=0.50000000000000000000
-AddParam</p>
-<p>Param.h.v.=00020021
+AddParam
+
+Param.h.v.=00020021
 Param.val=0.50000000000000000000
-AddParam</p>
-<p>Param.h.v.=00020022
+AddParam
+
+Param.h.v.=00020022
 Param.val=0.50000000000000000000
-AddParam</p>
-<p>Param.h.v.=00020023
+AddParam
+
+Param.h.v.=00020023
 Param.val=0.50000000000000000000
-AddParam</p>
-<p>Param.h.v.=00030010
-AddParam</p>
-<p>Param.h.v.=00030011
-AddParam</p>
-<p>Param.h.v.=00030012
-AddParam</p>
-<p>Param.h.v.=00030020
+AddParam
+
+Param.h.v.=00030010
+AddParam
+
+Param.h.v.=00030011
+AddParam
+
+Param.h.v.=00030012
+AddParam
+
+Param.h.v.=00030020
 Param.val=0.50000000000000000000
-AddParam</p>
-<p>Param.h.v.=00030021
+AddParam
+
+Param.h.v.=00030021
 Param.val=-0.50000000000000000000
-AddParam</p>
-<p>Param.h.v.=00030022
+AddParam
+
+Param.h.v.=00030022
 Param.val=-0.50000000000000000000
-AddParam</p>
-<p>Param.h.v.=00030023
+AddParam
+
+Param.h.v.=00030023
 Param.val=-0.50000000000000000000
-AddParam</p>
-<p>Param.h.v.=00040010
-AddParam</p>
-<p>Param.h.v.=00040011
-AddParam</p>
-<p>Param.h.v.=00040040
+AddParam
+
+Param.h.v.=00040010
+AddParam
+
+Param.h.v.=00040011
+AddParam
+
+Param.h.v.=00040040
 Param.val=5.00000000000000000000
-AddParam</p>
-<p>Param.h.v.=80030000
-AddParam</p>
-<p>Param.h.v.=80030001
-AddParam</p>
-<p>Param.h.v.=80030002
+AddParam
+
+Param.h.v.=80030000
+AddParam
+
+Param.h.v.=80030001
+AddParam
+
+Param.h.v.=80030002
 Param.val=45.00000000000000000000
-AddParam</p>
-<p>Request.h.v=00000001
+AddParam
+
+Request.h.v=00000001
 Request.type=100
 Request.group.v=00000001
 Request.construction=0
-AddRequest</p>
-<p>Request.h.v=00000002
+AddRequest
+
+Request.h.v=00000002
 Request.type=100
 Request.group.v=00000001
 Request.construction=0
-AddRequest</p>
-<p>Request.h.v=00000003
+AddRequest
+
+Request.h.v=00000003
 Request.type=100
 Request.group.v=00000001
 Request.construction=0
-AddRequest</p>
-<p>Request.h.v=00000004
+AddRequest
+
+Request.h.v=00000004
 Request.type=400
 Request.workplane.v=80020000
 Request.group.v=00000002
 Request.construction=0
-AddRequest</p>
-<p>Entity.h.v=00010000
+AddRequest
+
+Entity.h.v=00010000
 Entity.type=10000
 Entity.construction=0
 Entity.point[0].v=00010001
 Entity.normal.v=00010020
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=00010001
+AddEntity
+
+Entity.h.v=00010001
 Entity.type=2000
 Entity.construction=0
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=00010020
+AddEntity
+
+Entity.h.v=00010020
 Entity.type=3000
 Entity.construction=0
 Entity.point[0].v=00010001
 Entity.actNormal.w=1.00000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=00020000
+AddEntity
+
+Entity.h.v=00020000
 Entity.type=10000
 Entity.construction=0
 Entity.point[0].v=00020001
 Entity.normal.v=00020020
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=00020001
+AddEntity
+
+Entity.h.v=00020001
 Entity.type=2000
 Entity.construction=0
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=00020020
+AddEntity
+
+Entity.h.v=00020020
 Entity.type=3000
 Entity.construction=0
 Entity.point[0].v=00020001
@@ -361,20 +242,23 @@ Entity.actNormal.vx=0.50000000000000000000
 Entity.actNormal.vy=0.50000000000000000000
 Entity.actNormal.vz=0.50000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=00030000
+AddEntity
+
+Entity.h.v=00030000
 Entity.type=10000
 Entity.construction=0
 Entity.point[0].v=00030001
 Entity.normal.v=00030020
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=00030001
+AddEntity
+
+Entity.h.v=00030001
 Entity.type=2000
 Entity.construction=0
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=00030020
+AddEntity
+
+Entity.h.v=00030020
 Entity.type=3000
 Entity.construction=0
 Entity.point[0].v=00030001
@@ -383,8 +267,9 @@ Entity.actNormal.vx=-0.50000000000000000000
 Entity.actNormal.vy=-0.50000000000000000000
 Entity.actNormal.vz=-0.50000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=00040000
+AddEntity
+
+Entity.h.v=00040000
 Entity.type=13000
 Entity.construction=0
 Entity.point[0].v=00040001
@@ -392,155 +277,178 @@ Entity.normal.v=00040020
 Entity.distance.v=00040040
 Entity.workplane.v=80020000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=00040001
+AddEntity
+
+Entity.h.v=00040001
 Entity.type=2001
 Entity.construction=0
 Entity.workplane.v=80020000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=00040020
+AddEntity
+
+Entity.h.v=00040020
 Entity.type=3001
 Entity.construction=0
 Entity.point[0].v=00040001
 Entity.workplane.v=80020000
 Entity.actNormal.w=1.00000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=00040040
+AddEntity
+
+Entity.h.v=00040040
 Entity.type=4000
 Entity.construction=0
 Entity.workplane.v=80020000
 Entity.actDistance=5.00000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=80020000
+AddEntity
+
+Entity.h.v=80020000
 Entity.type=10000
 Entity.construction=0
 Entity.point[0].v=80020002
 Entity.normal.v=80020001
 Entity.actVisible=0
-AddEntity</p>
-<p>Entity.h.v=80020001
+AddEntity
+
+Entity.h.v=80020001
 Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80020002
 Entity.actNormal.w=1.00000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=80020002
+AddEntity
+
+Entity.h.v=80020002
 Entity.type=2012
 Entity.construction=0
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=80030001
+AddEntity
+
+Entity.h.v=80030001
 Entity.type=13000
 Entity.construction=0
 Entity.point[0].v=80030002
 Entity.normal.v=80030003
 Entity.distance.v=80030004
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=80030002
+AddEntity
+
+Entity.h.v=80030002
 Entity.type=2010
 Entity.construction=0
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=80030003
+AddEntity
+
+Entity.h.v=80030003
 Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80030002
 Entity.actNormal.w=1.00000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=80030004
+AddEntity
+
+Entity.h.v=80030004
 Entity.type=4001
 Entity.construction=0
 Entity.actDistance=5.00000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=80030005
+AddEntity
+
+Entity.h.v=80030005
 Entity.type=13000
 Entity.construction=0
 Entity.point[0].v=80030006
 Entity.normal.v=80030007
 Entity.distance.v=80030008
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=80030006
+AddEntity
+
+Entity.h.v=80030006
 Entity.type=2010
 Entity.construction=0
 Entity.actPoint.z=90.00000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=80030007
+AddEntity
+
+Entity.h.v=80030007
 Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80030006
 Entity.actNormal.w=1.00000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=80030008
+AddEntity
+
+Entity.h.v=80030008
 Entity.type=4001
 Entity.construction=0
 Entity.actDistance=5.00000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=80030009
+AddEntity
+
+Entity.h.v=80030009
 Entity.type=11000
 Entity.construction=0
 Entity.point[0].v=80030006
 Entity.point[1].v=80030002
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=8003000c
+AddEntity
+
+Entity.h.v=8003000c
 Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=8003000d
 Entity.actNormal.w=1.00000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=8003000d
+AddEntity
+
+Entity.h.v=8003000d
 Entity.type=2010
 Entity.construction=0
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=8003000e
+AddEntity
+
+Entity.h.v=8003000e
 Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=8003000f
 Entity.actNormal.w=1.00000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=8003000f
+AddEntity
+
+Entity.h.v=8003000f
 Entity.type=2010
 Entity.construction=0
 Entity.actPoint.z=90.00000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=80030010
+AddEntity
+
+Entity.h.v=80030010
 Entity.type=11000
 Entity.construction=0
 Entity.point[0].v=8003000f
 Entity.point[1].v=8003000d
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=80030011
+AddEntity
+
+Entity.h.v=80030011
 Entity.type=5000
 Entity.construction=0
 Entity.point[0].v=8003000f
 Entity.actPoint.z=90.00000000000000000000
 Entity.actNormal.vz=1.00000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Entity.h.v=80030012
+AddEntity
+
+Entity.h.v=80030012
 Entity.type=5000
 Entity.construction=0
 Entity.point[0].v=8003000d
 Entity.actNormal.vz=1.00000000000000000000
 Entity.actVisible=1
-AddEntity</p>
-<p>Constraint.h.v=00000001
+AddEntity
+
+Constraint.h.v=00000001
 Constraint.type=20
 Constraint.group.v=00000002
 Constraint.workplane.v=80020000
@@ -549,8 +457,9 @@ Constraint.ptB.v=00040001
 Constraint.other=0
 Constraint.other2=0
 Constraint.reference=0
-AddConstraint</p>
-<p>Constraint.h.v=00000002
+AddConstraint
+
+Constraint.h.v=00000002
 Constraint.type=90
 Constraint.group.v=00000002
 Constraint.workplane.v=80020000
@@ -561,8 +470,9 @@ Constraint.other2=0
 Constraint.reference=0
 Constraint.disp.offset.x=-12.80000000000000100000
 Constraint.disp.offset.y=10.80000000000000100000
-AddConstraint</p>
-<p>Constraint.h.v=00000003
+AddConstraint
+
+Constraint.h.v=00000003
 Constraint.type=30
 Constraint.group.v=00000003
 Constraint.valA=90.00000000000000000000
@@ -573,8 +483,9 @@ Constraint.other2=0
 Constraint.reference=0
 Constraint.disp.offset.x=3.32892385964335570000
 Constraint.disp.offset.y=-9.42964824034794980000
-AddConstraint</p>
-<p>Surface 00000001 00646464 80030012 1 1
+AddConstraint
+
+Surface 00000001 00646464 80030012 1 1
 SCtrl 0 0 -5.00000000000000000000 -5.00000000000000090000 0.00000000000000000000 Weight 1.00000000000000000000
 SCtrl 0 1 5.00000000010000000000 -5.00000000000000090000 0.00000000000000000000 Weight 1.00000000000000000000
 SCtrl 1 0 -5.00000000000000000000 4.99999999999999910000 0.00000000000000000000 Weight 1.00000000000000000000
@@ -729,121 +640,4 @@ CCtrl 0 5.00000000000000000000 -0.00000000000000122465 0.00000000000000000000 We
 CCtrl 1 5.00000000000000000000 -0.00000000000000122465 90.00000000000000000000 Weight 1.00000000000000000000
 CurvePt 1 5.00000000000000000000 -0.00000000000000122465 0.00000000000000000000
 CurvePt 1 5.00000000000000000000 -0.00000000000000122465 90.00000000000000000000
-AddCurve</p>
-<p></pre>
-<img src="./../data/9.png" width="560" /></p>
-            </div>
-            <!-- /.entry-content -->
-        </article>
-    </section>
-
-        </div>
-        <div class="col-sm-3" id="sidebar">
-            <aside>
-
-<section class="well well-sm">
-    <ul class="list-group list-group-flush">
-
-            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
-                <ul class="list-group" id="recentposts">
-                    <li class="list-group-item">
-                        <a href="./2017Spring-cd-W17.html">
-                            2017/06/14 W17
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="./2017Spring-cd-W16.html">
-                            2017/06/07 W16
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="./2017Spring-cd-W15.html">
-                            2017/05/31 W15
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="./2017Spring-cd-W9.html">
-                            2017/04/19 W9
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="./2017Spring-cd-W8.html">
-                            2017/04/12 W8
-                        </a>
-                    </li>
-                </ul>
-            </li>
-
-            <li class="list-group-item"><a href="./categories.html"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Categories</span></h4></a>
-                <ul class="list-group" id="categories">
-                    <li class="list-group-item">
-                        <a href="./category/course.html">
-                            <i class="fa fa-folder-open fa-lg"></i> Course
-                        </a>
-                    </li>
-                </ul>
-            </li>
-
-            <li class="list-group-item"><a href="./tags.html"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
-                <ul class="list-group list-inline tagcloud" id="tags">
-                </ul>
-            </li>
-    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
-      <ul class="list-group" id="links">
-        <li class="list-group-item">
-            <a href="http://getpelican.com/" target="_blank">
-                Pelican
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="https://github.com/DandyDev/pelican-bootstrap3/" target="_blank">
-                pelican-bootstrap3
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="https://github.com/getpelican/pelican-plugins" target="_blank">
-                pelican-plugins
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="https://github.com/Tipue/Tipue-Search" target="_blank">
-                Tipue search
-            </a>
-        </li>
-      </ul>
-    </li>
-    </ul>
-</section>
-            </aside>
-        </div>
-    </div>
-</div>
-<footer>
-   <div class="container">
-      <hr>
-      <div class="row">
-         <div class="col-xs-10">&copy; 2017 KMOL
-            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
-            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
-            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
-         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
-      </div>
-   </div>
-</footer>
-<script src="./theme/js/jquery.min.js"></script>
-
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="./theme/js/bootstrap.min.js"></script>
-
-<!-- for https://github.com/jsor/lity lightbox video popup -->
-
-<link href="./theme/css/lity.css" rel="stylesheet">
-
-<script src="./theme/js/lity.js"></script>
-
-<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="./theme/js/respond.min.js"></script>
-
-
-</body>
-</html>
+AddCurve
