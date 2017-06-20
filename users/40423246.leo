@@ -124,7 +124,7 @@
 <v t="leo.20170411224922.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170329203127.1" a="E"><vh>2017/03/29 w6上課內容</vh>
+<v t="leo.20170329203127.1"><vh>2017/03/29 w6上課內容</vh>
 <v t="leo.20170329203127.2" a="E"><vh>筆記</vh>
 <v t="leo.20170329203127.3"><vh>內容</vh></v>
 </v>
@@ -132,9 +132,89 @@
 <v t="leo.20170329203127.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170411225333.1" a="E"><vh>2017/04/05 w7上課內容</vh>
-<v t="leo.20170411225333.2" a="E"><vh>筆記</vh>
+<v t="leo.20170411225333.1"><vh>2017/04/05 w7上課內容</vh>
+<v t="leo.20170411225333.2"><vh>筆記</vh>
 <v t="leo.20170411225333.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170620233650.1" a="E"><vh>筆記</vh>
+<v t="leo.20170620233650.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170620233721.1" a="E"><vh>筆記</vh>
+<v t="leo.20170620233721.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170620233149.1"><vh>2017/04/12 w8上課內容</vh>
+<v t="leo.20170620233149.2" a="E"><vh>筆記</vh>
+<v t="leo.20170620233149.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170620233208.1"><vh>2017/04/19 w9上課內容</vh>
+<v t="leo.20170620233208.2" a="E"><vh>筆記</vh>
+<v t="leo.20170620233208.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170620234151.1" a="E"><vh>筆記</vh>
+<v t="leo.20170620234151.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170620233209.1"><vh>2017/04/26 w10上課內容</vh>
+<v t="leo.20170620233209.2" a="E"><vh>筆記</vh>
+<v t="leo.20170620233209.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170620234411.1" a="E"><vh>筆記</vh>
+<v t="leo.20170620234411.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170620234753.1" a="E"><vh>筆記</vh>
+<v t="leo.20170620234753.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170620233319.1" a="E"><vh>2017/05/03 w11上課內容</vh>
+<v t="leo.20170620233319.2" a="E"><vh>筆記</vh>
+<v t="leo.20170620233319.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170620234927.1" a="E"><vh>筆記</vh>
+<v t="leo.20170620234927.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170620234929.1" a="E"><vh>筆記</vh>
+<v t="leo.20170620234929.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170620233331.1"><vh>2017/05/10 w12上課內容</vh>
+<v t="leo.20170620233331.2"><vh>筆記</vh>
+<v t="leo.20170620233331.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170620235108.1" a="E"><vh>筆記</vh>
+<v t="leo.20170620235108.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170620233332.1" a="E"><vh>2017/05/17 w13上課內容</vh>
+<v t="leo.20170620233332.2" a="E"><vh>筆記</vh>
+<v t="leo.20170620233332.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170620233334.1"><vh>2017/05/24 w14上課內容</vh>
+<v t="leo.20170620233334.2" a="E"><vh>筆記</vh>
+<v t="leo.20170620233334.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170620233400.1" a="E"><vh>2017/05/31 w15上課內容</vh>
+<v t="leo.20170620233400.2" a="E"><vh>筆記</vh>
+<v t="leo.20170620233400.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20170620235428.1" a="E"><vh>筆記</vh>
+<v t="leo.20170620235428.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170620235430.1" a="E"><vh>筆記</vh>
+<v t="leo.20170620235430.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170620233411.1" a="E"><vh>2017/06/07 w16上課內容</vh>
+<v t="leo.20170620233411.2" a="E"><vh>筆記</vh>
+<v t="leo.20170620233411.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170620233413.1" a="E"><vh>2017/06/14 w17上課內容</vh>
+<v t="leo.20170620233413.2" a="E"><vh>筆記</vh>
+<v t="leo.20170620233413.3"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -676,8 +756,343 @@ LINK30
 <t tx="leo.20170411225333.3"># 2017/04/5第七周上課內容
 
 *筆記
+Fossil 推送檔案
+</t>
+<t tx="leo.20170620233149.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620233149.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620233149.3"># 2017/04/12第八周上課內容
+
+###&lt;a href="https://pygroup-ag100.rhcloud.com"&gt;小組互評&lt;/a&gt;
+
+###&lt;a href="http://mde1a2.kmol.info:8000/k96tgzh1ofbl"&gt;個人自評&lt;/a&gt;
 
 </t>
+<t tx="leo.20170620233208.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620233208.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620233208.3"># 2017/04/19第九周上課內容
+
+四連桿機構
+&lt;iframe src="https://player.vimeo.com/video/214771995" width="640" height="317" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170620233209.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620233209.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620233209.3"># 2017/04/26第十周上課內容
+
+四連桿機構協同 Trace Point 查驗
+&lt;img src="./../data/midterm5.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170620233319.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620233319.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620233319.3"># 2017/05/03第十一周上課內容
+
+以 Brython 繪製單一正齒輪廓
+
+</t>
+<t tx="leo.20170620233331.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620233331.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620233331.3"># 2017/05/10第十二周上課內容
+
+漸開線齒輪繪製
+
+</t>
+<t tx="leo.20170620233332.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620233332.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620233332.3"># 2017/05/17第十三周上課內容
+
+八連桿行走機構
+&lt;img src="data/chrome_2017-06-20_22-41-24.png" width="600" /&gt;
+&lt;p&gt;八連桿行走機構: &lt;a href="https://cad.onshape.com/documents/d099055444c802976fbac16b/w/01336ea23999305b909be1f5/e/286a1694a9baa8b2174e572a"&gt;OnShape 檔案&lt;/a&gt;&lt;/p&gt;</t>
+<t tx="leo.20170620233334.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620233334.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620233334.3"># 2017/05/24第十四周上課內容
+
+架設伺服器主機
+
+&lt;p&gt;參考資料 &lt;a href="https://40423245.github.io/2017springcd_hw/blog/2017spring-cd-W14.html"&gt;40423245&lt;/a&gt;&lt;/p&gt;
+</t>
+<t tx="leo.20170620233400.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620233400.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620233400.3"># 2017/05/31第十五周上課內容
+
+從單一 2D 正齒輪繪圖到齒輪組嚙合
+
+利用漸開線原理, 以 Brython 繪製單一正齒輪廓:</t>
+<t tx="leo.20170620233411.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620233411.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620233411.3"># 2017/06/07第十六周上課內容
+
+*筆記
+
+</t>
+<t tx="leo.20170620233413.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620233413.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620233413.3"># 2017/06/14第十七周上課內容
+
+*筆記
+
+</t>
+<t tx="leo.20170620233650.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620233650.2">一.Fossil 程式碼
+&lt;iframe src="https://player.vimeo.com/video/214789504" width="640" height="340" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170620233721.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620233721.2">二.八連桿機構
+&lt;iframe src="https://player.vimeo.com/video/214629072" width="640" height="340" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170620234151.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620234151.2">&lt;iframe src="https://player.vimeo.com/video/214771995" width="640" height="317" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214771995"&gt;期中行走機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user60140629"&gt;40423246&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170620234411.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620234411.2">##Onshape 運動模擬
+&lt;iframe src="https://player.vimeo.com/video/214771995" width="640" height="317" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214771995"&gt;期中行走機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user60140629"&gt;40423246&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170620234753.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620234753.2">V-rep 運動模擬
+&lt;iframe src="https://player.vimeo.com/video/222355177" width="640" height="457" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222355177"&gt;Fourbar  V-rep模擬&lt;/a&gt; from &lt;a href="https://vimeo.com/user60140629"&gt;40423246&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+</t>
+<t tx="leo.20170620234927.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620234927.2">
+&lt;img src="data/chrome_2017-06-21_00-04-09.png" width="600" /&gt;</t>
+<t tx="leo.20170620234929.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620234929.2">##處理兩種正齒輪嚙合的繪圖
+
+
+&lt;img src="data/chrome_2017-06-21_00-04-21.png" width="600" /&gt;
+</t>
+<t tx="leo.20170620235108.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620235108.2">以節圓直徑d=50,模數m=2.5,齒數t=20繪製 
+
+&lt;iframe src="https://player.vimeo.com/video/222360718" width="640" height="348" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222360718"&gt;Untitled&lt;/a&gt; from &lt;a href="https://vimeo.com/user60140629"&gt;40423246&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170620235428.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620235428.2">&lt;img src="data/chrome_2017-06-21_00-10-31.png" width="600" /&gt;</t>
+<t tx="leo.20170620235430.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620235430.2">&lt;img src="data/chrome_2017-06-21_00-10-39.png" width="600" /&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
