@@ -152,9 +152,6 @@
 <v t="leo.20170620233208.2" a="E"><vh>筆記</vh>
 <v t="leo.20170620233208.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20170620234151.1" a="E"><vh>筆記</vh>
-<v t="leo.20170620234151.2"><vh>內容</vh></v>
-</v>
 </v>
 <v t="leo.20170620233209.1"><vh>2017/04/26 w10上課內容</vh>
 <v t="leo.20170620233209.2" a="E"><vh>筆記</vh>
@@ -167,7 +164,7 @@
 <v t="leo.20170620234753.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170620233319.1" a="E"><vh>2017/05/03 w11上課內容</vh>
+<v t="leo.20170620233319.1"><vh>2017/05/03 w11上課內容</vh>
 <v t="leo.20170620233319.2" a="E"><vh>筆記</vh>
 <v t="leo.20170620233319.3"><vh>內容</vh></v>
 </v>
@@ -208,11 +205,11 @@
 </v>
 </v>
 <v t="leo.20170620233411.1" a="E"><vh>2017/06/07 w16上課內容</vh>
-<v t="leo.20170620233411.2" a="E"><vh>筆記</vh>
-<v t="leo.20170620233411.3"><vh>內容</vh></v>
+<v t="leo.20170621084308.1" a="E"><vh>筆記</vh>
+<v t="leo.20170621084308.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170620233413.1" a="E"><vh>2017/06/14 w17上課內容</vh>
+<v t="leo.20170620233413.1"><vh>2017/06/14 w17上課內容</vh>
 <v t="leo.20170620233413.2" a="E"><vh>筆記</vh>
 <v t="leo.20170620233413.3"><vh>內容</vh></v>
 </v>
@@ -815,7 +812,7 @@ Fossil 推送檔案
 <t tx="leo.20170620233209.3"># 2017/04/26第十周上課內容
 
 四連桿機構協同 Trace Point 查驗
-&lt;img src="./../data/midterm5.png" width="560" /&gt;
+&lt;img src="data/midterm5.png" width="600" /&gt;
 
 </t>
 <t tx="leo.20170620233319.1">&lt;section&gt;
@@ -917,22 +914,6 @@ Fossil 推送檔案
 <t tx="leo.20170620233411.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20170620233411.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170620233411.3"># 2017/06/07第十六周上課內容
-
-*筆記
-
-</t>
 <t tx="leo.20170620233413.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -949,9 +930,8 @@ Fossil 推送檔案
 </t>
 <t tx="leo.20170620233413.3"># 2017/06/14第十七周上課內容
 
-*筆記
-
-</t>
+1.
+&lt;img src="data/chrome_2017-06-21_08-29-48.png" width="600" /&gt;</t>
 <t tx="leo.20170620233650.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -978,20 +958,6 @@ Fossil 推送檔案
 </t>
 <t tx="leo.20170620233721.2">二.八連桿機構
 &lt;iframe src="https://player.vimeo.com/video/214629072" width="640" height="340" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20170620234151.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170620234151.2">&lt;iframe src="https://player.vimeo.com/video/214771995" width="640" height="317" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/214771995"&gt;期中行走機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user60140629"&gt;40423246&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-</t>
 <t tx="leo.20170620234411.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1093,6 +1059,24 @@ Fossil 推送檔案
 						
 </t>
 <t tx="leo.20170620235430.2">&lt;img src="data/chrome_2017-06-21_00-10-39.png" width="600" /&gt;</t>
+<t tx="leo.20170621084308.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084308.2"># 2017/06/07第十六周上課內容
+
+
+模擬齒輪傳動
+
+&lt;iframe src="https://player.vimeo.com/video/221423385" width="640" height="413" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/221423385"&gt;Onshape 齒輪模擬&lt;/a&gt; from &lt;a href="https://vimeo.com/user60140629"&gt;40423246&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
